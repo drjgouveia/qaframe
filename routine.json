@@ -1,0 +1,13 @@
+{
+  "on_error_proceed": 0,
+  "headless": 1,
+  "routine": [
+    {
+      "time_load": "",
+      "wait":  "",
+      "url": "",
+      "element": "",
+      "action": "",
+    }
+  ]
+}
